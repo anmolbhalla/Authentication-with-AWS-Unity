@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - username
+  - password
+  - login
+  - teacher
+  - student
+  - logindrop
+  - signdrop
+  - show
+  - signup_name
+  - signup_pass
+  - signup_email
+  - signup_number
+  - teacher_1
+  - teacher_2
+  - teacher_3
+  - signup_button
+  - teacher_name
+  - teacher_user
+  - teacher_pass
+  - teacher_email
+  - teacher_mobile
+  - signup_user
+  - teacher_button
+  - first_login
+  - first_signup
+  - teacher_sign
+  - student_sign
+  - stud_name
+  - stud_email
+  - stud_mob
+  - stud_marks
+  - stud_teach
+  - t_name
+  - t_email
+  - t_mob
+  - t_stud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
